@@ -1,0 +1,5 @@
+{
+  "name": "Battlegrounds Tournament Manager",
+  "description": "A comprehensive tournament management system designed for 8-player FFA games (like Hearthstone Battlegrounds). Features include registration, automatic grouping, score tracking, and leaderboards with tie-breaker logic.",
+  "requestFramePermissions": []
+}
